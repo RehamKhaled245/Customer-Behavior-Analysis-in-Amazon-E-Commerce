@@ -34,8 +34,3 @@ Provided data-driven insights to improve customer experience, reduce cart abando
 - Improve customer service to increase satisfaction and trust.
 - Leverage AI-driven personalized recommendations to enhance customer engagement.
 - Focus marketing campaigns on high-demand product categories and frequent shoppers.
-
----
-> Add a screenshot of the dashboard here.
-
-![Dashboard Preview](CustomerBehaviorDashboard.png)
